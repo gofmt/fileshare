@@ -2,18 +2,13 @@
 
 A new Flutter project.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Flutter Version
+```powershell
+Flutter 3.38.3 • channel stable • https://mirrors.tuna.tsinghua.edu.cn/git/flutter-sdk.git
+Framework • revision 19074d12f7 (12 months ago) • 2025-11-20 17:53:13 -0500
+Engine • hash 8bf2090718fea3655f466049a757f823898f0ad1 (revision 13e658725d) (11 months ago) • 2025-11-20 20:19:23.000Z
+Tools • Dart 3.10.1 • DevTools 2.51.1
+```
 
 ## Windows系统网络模式设置为专用 否则无法发现
 
